@@ -1,12 +1,12 @@
 body
 {
-	background-image: url("images/bg.jpg");
+	background-image: url("bg.jpg");
       background-repeat:no-repeat;
 	  background-size:cover;
 }
 header
 {
-	background-image: url("images/h1.jpg");
+	background-image: url("h1.jpg");
 	width: 1300px;
 	border-radius: 30px;
 	font-family: Impact, Charcoal, sans-serif;
