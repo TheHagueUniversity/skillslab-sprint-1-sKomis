@@ -1,0 +1,75 @@
+body
+{
+	background-image: url("images/bg.jpg");
+      background-repeat:no-repeat;
+	  background-size:cover;
+}
+header
+{
+	background-image: url("images/h1.jpg");
+	width: 1300px;
+	border-radius: 30px;
+	font-family: Impact, Charcoal, sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#sub
+{
+	font-size: 25px;
+}
+.main
+{
+	width:1150px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:10px;
+	margin-bottom: auto;
+	
+}
+.nav
+{
+	background-color: gray;
+	font-family: Arial Black, Gadget, sans-serif;
+	font-size: 20px; 
+	font-weight: bold;
+	text-align: center;
+    width: 250px;
+	border: 3px solid gray; 
+    border-radius: 20px;
+   	float: left;
+}
+.nam
+{
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 30px;
+	
+}
+.homepage
+{
+	background-color: gray;
+	font-family: Arial Black, Gadget, sans-serif;
+	font-size: 20px; 
+	font-weight: bold;
+	text-align: center;
+    width: 880px;
+	border: 3px solid gray; 
+    border-radius: 20px;
+   	float: right;
+}
+footer
+{
+	background-color: gray;
+	width: 1300px;
+	border-radius: 30px;
+	font-family: Times new roman;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 500px;
+	float:bottom;
+}
